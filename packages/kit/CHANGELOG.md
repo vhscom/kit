@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.331
+
+### Patch Changes
+
+- [breaking] drop Node 14 support ([#4922](https://github.com/sveltejs/kit/pull/4922))
+
 ## 1.0.0-next.330
 
 ### Patch Changes
